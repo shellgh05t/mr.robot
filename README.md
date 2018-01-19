@@ -2,6 +2,8 @@
 Just a nice landingpage for all fans
 
 https://www.whoismrrobot.com/
+
+It's a site directly made by the makers of the Mr.Robot show. Has some nice games, pics, terminals to fool around with and a lot more. Hope you enjoy it !!!
                                                                                                                                                
 
                                                         
